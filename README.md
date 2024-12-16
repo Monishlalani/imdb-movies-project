@@ -18,3 +18,7 @@ Monish Lalani
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monishlalani12@gmail.com)  
 
 
+Patrick's portfolio highlights Amazon (AMZN) as the best-performing stock due to its exceptional growth. The Technology sector dominates, offering significant cumulative returns. This aligns with Patrick's goal of doubling his investment within five years.
+
+
+Peter's portfolio focuses on high-risk stocks with the potential for greater returns. The analysis highlights volatile stocks with high standard deviation and beta values, aligning with Peter's risk profile. This strategy aims to maximize returns for his $1 million investment over five years.  
